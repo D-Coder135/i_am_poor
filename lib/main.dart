@@ -9,9 +9,9 @@ void main() {
             image: AssetImage('images/poor.jpg'),
           ),
         ),
-        backgroundColor: Colors.red[400],
+        backgroundColor: Colors.black87,
         appBar: AppBar(
-          backgroundColor: Colors.red[800],
+          backgroundColor: Colors.blueGrey[900],
           title: Center(child: Text('I Am Poor')),
         ),
       ),
